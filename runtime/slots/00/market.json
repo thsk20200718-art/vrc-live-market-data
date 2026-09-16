@@ -1,14 +1,17 @@
 {
-  "marketId": "GEM-001",
-  "marketName": "VRC Live Market Test",
+  "schemaVersion": 1,
+  "marketId": "GEM-0001",
+  "title": "VRC Live Market Test",
+  "sellerDisplayNames": [
+    "あなたのVRChat表示名"
+  ],
   "products": [
     {
-      "number": "01",
       "name": "Pyrite",
-      "price": "4800",
+      "price": 4800,
       "description": "Test product",
-      "state": "AVAILABLE",
-      "images": [
+      "initialState": "AVAILABLE",
+      "imageSlots": [
         0
       ]
     }
