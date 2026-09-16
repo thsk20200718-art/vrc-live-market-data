@@ -5,6 +5,10 @@
   "sellerDisplayNames": [
     "もちもちわらびもち"
   ],
+  "staffDisplayNames": [],
+  "authorizedDisplayNames": [
+    "もちもちわらびもち"
+  ],
   "products": [
     {
       "name": "Pyrite",
