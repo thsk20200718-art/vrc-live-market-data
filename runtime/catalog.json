@@ -2,7 +2,11 @@
   "markets": [
     {
       "marketId": "GEM-5266",
-      "slot": 0
+      "slot": 0,
+      "title": "テスト販売会",
+      "authorizedDisplayNames": [
+        "もちもちわらびもち"
+      ]
     }
   ]
 }
