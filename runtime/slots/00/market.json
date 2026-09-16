@@ -1,0 +1,16 @@
+{
+  "marketId": "GEM-001",
+  "marketName": "VRC Live Market Test",
+  "products": [
+    {
+      "number": "01",
+      "name": "Pyrite",
+      "price": "4800",
+      "description": "Test product",
+      "state": "AVAILABLE",
+      "images": [
+        0
+      ]
+    }
+  ]
+}
