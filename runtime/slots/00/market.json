@@ -9,11 +9,23 @@
     {
       "name": "Pyrite",
       "price": 4800,
-      "description": "Test product",
+      "description": "Test product 01",
       "initialState": "AVAILABLE",
-      "imageSlots": [
-        0
-      ]
+      "imageSlots": [0, 1]
+    },
+    {
+      "name": "Amethyst",
+      "price": 3500,
+      "description": "Test product 02",
+      "initialState": "HOLD",
+      "imageSlots": [2, 3]
+    },
+    {
+      "name": "Quartz",
+      "price": 2000,
+      "description": "Test product 03",
+      "initialState": "SOLD",
+      "imageSlots": [4]
     }
   ]
 }
