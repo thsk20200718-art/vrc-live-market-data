@@ -1,7 +1,7 @@
 {
   "markets": [
     {
-      "id": "GEM-001",
+      "marketId": "GEM-0001",
       "slot": 0
     }
   ]
