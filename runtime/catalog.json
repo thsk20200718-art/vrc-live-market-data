@@ -1,14 +1,6 @@
 {
   "markets": [
     {
-      "marketId": "GEM-5266",
-      "slot": 0,
-      "title": "テスト販売会",
-      "authorizedDisplayNames": [
-        "もちもちわらびもち"
-      ]
-    },
-    {
       "marketId": "GEM-3145",
       "slot": 1,
       "title": "９月　放出会",
