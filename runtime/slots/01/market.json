@@ -38,7 +38,7 @@
       "name": "蛍石",
       "price": 4232,
       "description": "蛍石です",
-      "initialState": "AVAILABLE",
+      "initialState": "SOLD",
       "imageSlots": [
         6,
         7,
