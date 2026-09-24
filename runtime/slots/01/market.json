@@ -13,9 +13,9 @@
   "saleStatus": "ENDED",
   "products": [
     {
-      "name": "水晶",
-      "price": 4000,
-      "description": "水晶です",
+      "name": "パイライト",
+      "price": 2200,
+      "description": "結晶がきれいな鉱物です",
       "initialState": "AVAILABLE",
       "imageSlots": [
         0,
@@ -24,9 +24,9 @@
       ]
     },
     {
-      "name": "パイライト",
-      "price": 2200,
-      "description": "結晶がきれいな鉱物です",
+      "name": "水晶",
+      "price": 4000,
+      "description": "水晶です",
       "initialState": "AVAILABLE",
       "imageSlots": [
         3,
